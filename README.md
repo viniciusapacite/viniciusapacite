@@ -5,8 +5,8 @@
 - 🔥 I have helping peoples to Develope sites with tools utilized in work marketplace.
 -  🔭 I make freelacers  works whit main tools from market.
 -  I regularly post videos on linkedin **(https://www.linkedin.com/in/viniciusapacite/).**
--  used tools: **HTML,CSS, JAVASCRIPT,PHP.**
--  used tools for designer: **Figma,Photoshop, Adobe,Visual Studio Code.**
+-  used tools: **HTML, CSS, SCSS, MATERIALIZE, BOOTSTRAP JAVASCRIPT, PYTHON.**
+-  used tools for designer: **FIGMA, PHOTOSHOP, ADOBE ,VISUAL STUDIO CODE.**
 -  <br>
 -  ## 🛠 &nbsp;Tech Stack
 -  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
